@@ -1,2 +1,2 @@
-i#!/bin/bash
+#!/bin/bash
 echo $((`echo $PATH | tr -cd : | wc -c` + 1))
