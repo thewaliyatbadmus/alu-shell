@@ -1,0 +1,1 @@
+This project focuses on shell scripting fundamentals and system automation using Bash. It covers key skills such as generating SSH keys for secure authentication, using #!/usr/bin/env bash for script portability, and writing control flow structures including while, until, and for loops.
